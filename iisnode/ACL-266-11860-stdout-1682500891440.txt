@@ -1,0 +1,1335 @@
+\\.\pipe\3f6c86b6-4caf-4436-b524-5a7446bf142a
+> Ready on http://localhost:\\.\pipe\3f6c86b6-4caf-4436-b524-5a7446bf142a
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/',
+  path: '/',
+  href: '/'
+}
+localhost:92
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/css/0f21c4bb7aa4c7fb.css',
+  path: '/_next/static/css/0f21c4bb7aa4c7fb.css',
+  href: '/_next/static/css/0f21c4bb7aa4c7fb.css'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/chunks/pages/index-8c070a18c3e82e5a.js',
+  path: '/_next/static/chunks/pages/index-8c070a18c3e82e5a.js',
+  href: '/_next/static/chunks/pages/index-8c070a18c3e82e5a.js'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/WKWROlk2bsYdCwEG-k4cn/_buildManifest.js',
+  path: '/_next/static/WKWROlk2bsYdCwEG-k4cn/_buildManifest.js',
+  href: '/_next/static/WKWROlk2bsYdCwEG-k4cn/_buildManifest.js'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/WKWROlk2bsYdCwEG-k4cn/_ssgManifest.js',
+  path: '/_next/static/WKWROlk2bsYdCwEG-k4cn/_ssgManifest.js',
+  href: '/_next/static/WKWROlk2bsYdCwEG-k4cn/_ssgManifest.js'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F1%2Fthumbnail.jpg&w=640&q=75',
+  query: [Object: null prototype] {
+    url: 'https://i.dummyjson.com/data/products/1/thumbnail.jpg',
+    w: '640',
+    q: '75'
+  },
+  pathname: '/_next/image',
+  path: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F1%2Fthumbnail.jpg&w=640&q=75',
+  href: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F1%2Fthumbnail.jpg&w=640&q=75'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F2%2Fthumbnail.jpg&w=640&q=75',
+  query: [Object: null prototype] {
+    url: 'https://i.dummyjson.com/data/products/2/thumbnail.jpg',
+    w: '640',
+    q: '75'
+  },
+  pathname: '/_next/image',
+  path: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F2%2Fthumbnail.jpg&w=640&q=75',
+  href: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F2%2Fthumbnail.jpg&w=640&q=75'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F3%2Fthumbnail.jpg&w=640&q=75',
+  query: [Object: null prototype] {
+    url: 'https://i.dummyjson.com/data/products/3/thumbnail.jpg',
+    w: '640',
+    q: '75'
+  },
+  pathname: '/_next/image',
+  path: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F3%2Fthumbnail.jpg&w=640&q=75',
+  href: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F3%2Fthumbnail.jpg&w=640&q=75'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F4%2Fthumbnail.jpg&w=640&q=75',
+  query: [Object: null prototype] {
+    url: 'https://i.dummyjson.com/data/products/4/thumbnail.jpg',
+    w: '640',
+    q: '75'
+  },
+  pathname: '/_next/image',
+  path: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F4%2Fthumbnail.jpg&w=640&q=75',
+  href: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F4%2Fthumbnail.jpg&w=640&q=75'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F5%2Fthumbnail.jpg&w=640&q=75',
+  query: [Object: null prototype] {
+    url: 'https://i.dummyjson.com/data/products/5/thumbnail.jpg',
+    w: '640',
+    q: '75'
+  },
+  pathname: '/_next/image',
+  path: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F5%2Fthumbnail.jpg&w=640&q=75',
+  href: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F5%2Fthumbnail.jpg&w=640&q=75'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F6%2Fthumbnail.png&w=640&q=75',
+  query: [Object: null prototype] {
+    url: 'https://i.dummyjson.com/data/products/6/thumbnail.png',
+    w: '640',
+    q: '75'
+  },
+  pathname: '/_next/image',
+  path: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F6%2Fthumbnail.png&w=640&q=75',
+  href: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F6%2Fthumbnail.png&w=640&q=75'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F7%2Fthumbnail.jpg&w=640&q=75',
+  query: [Object: null prototype] {
+    url: 'https://i.dummyjson.com/data/products/7/thumbnail.jpg',
+    w: '640',
+    q: '75'
+  },
+  pathname: '/_next/image',
+  path: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F7%2Fthumbnail.jpg&w=640&q=75',
+  href: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F7%2Fthumbnail.jpg&w=640&q=75'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F8%2Fthumbnail.jpg&w=640&q=75',
+  query: [Object: null prototype] {
+    url: 'https://i.dummyjson.com/data/products/8/thumbnail.jpg',
+    w: '640',
+    q: '75'
+  },
+  pathname: '/_next/image',
+  path: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F8%2Fthumbnail.jpg&w=640&q=75',
+  href: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F8%2Fthumbnail.jpg&w=640&q=75'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F9%2Fthumbnail.jpg&w=640&q=75',
+  query: [Object: null prototype] {
+    url: 'https://i.dummyjson.com/data/products/9/thumbnail.jpg',
+    w: '640',
+    q: '75'
+  },
+  pathname: '/_next/image',
+  path: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F9%2Fthumbnail.jpg&w=640&q=75',
+  href: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F9%2Fthumbnail.jpg&w=640&q=75'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/',
+  path: '/',
+  href: '/'
+}
+localhost:92
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/media/2aaf0723e720e8b9-s.p.woff2',
+  path: '/_next/static/media/2aaf0723e720e8b9-s.p.woff2',
+  href: '/_next/static/media/2aaf0723e720e8b9-s.p.woff2'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/css/0964754e1cd8709d.css',
+  path: '/_next/static/css/0964754e1cd8709d.css',
+  href: '/_next/static/css/0964754e1cd8709d.css'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/css/0f21c4bb7aa4c7fb.css',
+  path: '/_next/static/css/0f21c4bb7aa4c7fb.css',
+  href: '/_next/static/css/0f21c4bb7aa4c7fb.css'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/chunks/webpack-8fa1640cc84ba8fe.js',
+  path: '/_next/static/chunks/webpack-8fa1640cc84ba8fe.js',
+  href: '/_next/static/chunks/webpack-8fa1640cc84ba8fe.js'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/chunks/framework-2c79e2a64abdb08b.js',
+  path: '/_next/static/chunks/framework-2c79e2a64abdb08b.js',
+  href: '/_next/static/chunks/framework-2c79e2a64abdb08b.js'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/chunks/main-70c6c1c9944e7c74.js',
+  path: '/_next/static/chunks/main-70c6c1c9944e7c74.js',
+  href: '/_next/static/chunks/main-70c6c1c9944e7c74.js'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/chunks/pages/_app-cb4d59606a29a817.js',
+  path: '/_next/static/chunks/pages/_app-cb4d59606a29a817.js',
+  href: '/_next/static/chunks/pages/_app-cb4d59606a29a817.js'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/chunks/pages/index-8c070a18c3e82e5a.js',
+  path: '/_next/static/chunks/pages/index-8c070a18c3e82e5a.js',
+  href: '/_next/static/chunks/pages/index-8c070a18c3e82e5a.js'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/WKWROlk2bsYdCwEG-k4cn/_buildManifest.js',
+  path: '/_next/static/WKWROlk2bsYdCwEG-k4cn/_buildManifest.js',
+  href: '/_next/static/WKWROlk2bsYdCwEG-k4cn/_buildManifest.js'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/WKWROlk2bsYdCwEG-k4cn/_ssgManifest.js',
+  path: '/_next/static/WKWROlk2bsYdCwEG-k4cn/_ssgManifest.js',
+  href: '/_next/static/WKWROlk2bsYdCwEG-k4cn/_ssgManifest.js'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F1%2Fthumbnail.jpg&w=640&q=75',
+  query: [Object: null prototype] {
+    url: 'https://i.dummyjson.com/data/products/1/thumbnail.jpg',
+    w: '640',
+    q: '75'
+  },
+  pathname: '/_next/image',
+  path: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F1%2Fthumbnail.jpg&w=640&q=75',
+  href: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F1%2Fthumbnail.jpg&w=640&q=75'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/favicon.ico',
+  path: '/favicon.ico',
+  href: '/favicon.ico'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/',
+  path: '/',
+  href: '/'
+}
+localhost:92
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/media/2aaf0723e720e8b9-s.p.woff2',
+  path: '/_next/static/media/2aaf0723e720e8b9-s.p.woff2',
+  href: '/_next/static/media/2aaf0723e720e8b9-s.p.woff2'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/css/0964754e1cd8709d.css',
+  path: '/_next/static/css/0964754e1cd8709d.css',
+  href: '/_next/static/css/0964754e1cd8709d.css'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/css/0f21c4bb7aa4c7fb.css',
+  path: '/_next/static/css/0f21c4bb7aa4c7fb.css',
+  href: '/_next/static/css/0f21c4bb7aa4c7fb.css'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/chunks/webpack-8fa1640cc84ba8fe.js',
+  path: '/_next/static/chunks/webpack-8fa1640cc84ba8fe.js',
+  href: '/_next/static/chunks/webpack-8fa1640cc84ba8fe.js'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/chunks/main-70c6c1c9944e7c74.js',
+  path: '/_next/static/chunks/main-70c6c1c9944e7c74.js',
+  href: '/_next/static/chunks/main-70c6c1c9944e7c74.js'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/chunks/framework-2c79e2a64abdb08b.js',
+  path: '/_next/static/chunks/framework-2c79e2a64abdb08b.js',
+  href: '/_next/static/chunks/framework-2c79e2a64abdb08b.js'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/chunks/pages/_app-cb4d59606a29a817.js',
+  path: '/_next/static/chunks/pages/_app-cb4d59606a29a817.js',
+  href: '/_next/static/chunks/pages/_app-cb4d59606a29a817.js'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/chunks/pages/index-8c070a18c3e82e5a.js',
+  path: '/_next/static/chunks/pages/index-8c070a18c3e82e5a.js',
+  href: '/_next/static/chunks/pages/index-8c070a18c3e82e5a.js'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/WKWROlk2bsYdCwEG-k4cn/_buildManifest.js',
+  path: '/_next/static/WKWROlk2bsYdCwEG-k4cn/_buildManifest.js',
+  href: '/_next/static/WKWROlk2bsYdCwEG-k4cn/_buildManifest.js'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/WKWROlk2bsYdCwEG-k4cn/_ssgManifest.js',
+  path: '/_next/static/WKWROlk2bsYdCwEG-k4cn/_ssgManifest.js',
+  href: '/_next/static/WKWROlk2bsYdCwEG-k4cn/_ssgManifest.js'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F1%2Fthumbnail.jpg&w=640&q=75',
+  query: [Object: null prototype] {
+    url: 'https://i.dummyjson.com/data/products/1/thumbnail.jpg',
+    w: '640',
+    q: '75'
+  },
+  pathname: '/_next/image',
+  path: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F1%2Fthumbnail.jpg&w=640&q=75',
+  href: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F1%2Fthumbnail.jpg&w=640&q=75'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/favicon.ico',
+  path: '/favicon.ico',
+  href: '/favicon.ico'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/',
+  path: '/',
+  href: '/'
+}
+localhost:92
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/media/2aaf0723e720e8b9-s.p.woff2',
+  path: '/_next/static/media/2aaf0723e720e8b9-s.p.woff2',
+  href: '/_next/static/media/2aaf0723e720e8b9-s.p.woff2'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/chunks/webpack-8fa1640cc84ba8fe.js',
+  path: '/_next/static/chunks/webpack-8fa1640cc84ba8fe.js',
+  href: '/_next/static/chunks/webpack-8fa1640cc84ba8fe.js'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/css/0964754e1cd8709d.css',
+  path: '/_next/static/css/0964754e1cd8709d.css',
+  href: '/_next/static/css/0964754e1cd8709d.css'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/chunks/framework-2c79e2a64abdb08b.js',
+  path: '/_next/static/chunks/framework-2c79e2a64abdb08b.js',
+  href: '/_next/static/chunks/framework-2c79e2a64abdb08b.js'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/css/0f21c4bb7aa4c7fb.css',
+  path: '/_next/static/css/0f21c4bb7aa4c7fb.css',
+  href: '/_next/static/css/0f21c4bb7aa4c7fb.css'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/chunks/main-70c6c1c9944e7c74.js',
+  path: '/_next/static/chunks/main-70c6c1c9944e7c74.js',
+  href: '/_next/static/chunks/main-70c6c1c9944e7c74.js'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/chunks/pages/index-8c070a18c3e82e5a.js',
+  path: '/_next/static/chunks/pages/index-8c070a18c3e82e5a.js',
+  href: '/_next/static/chunks/pages/index-8c070a18c3e82e5a.js'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/WKWROlk2bsYdCwEG-k4cn/_buildManifest.js',
+  path: '/_next/static/WKWROlk2bsYdCwEG-k4cn/_buildManifest.js',
+  href: '/_next/static/WKWROlk2bsYdCwEG-k4cn/_buildManifest.js'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/chunks/pages/_app-cb4d59606a29a817.js',
+  path: '/_next/static/chunks/pages/_app-cb4d59606a29a817.js',
+  href: '/_next/static/chunks/pages/_app-cb4d59606a29a817.js'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/WKWROlk2bsYdCwEG-k4cn/_ssgManifest.js',
+  path: '/_next/static/WKWROlk2bsYdCwEG-k4cn/_ssgManifest.js',
+  href: '/_next/static/WKWROlk2bsYdCwEG-k4cn/_ssgManifest.js'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F1%2Fthumbnail.jpg&w=640&q=75',
+  query: [Object: null prototype] {
+    url: 'https://i.dummyjson.com/data/products/1/thumbnail.jpg',
+    w: '640',
+    q: '75'
+  },
+  pathname: '/_next/image',
+  path: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F1%2Fthumbnail.jpg&w=640&q=75',
+  href: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F1%2Fthumbnail.jpg&w=640&q=75'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/favicon.ico',
+  path: '/favicon.ico',
+  href: '/favicon.ico'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/WKWROlk2bsYdCwEG-k4cn/_buildManifest.js',
+  path: '/_next/static/WKWROlk2bsYdCwEG-k4cn/_buildManifest.js',
+  href: '/_next/static/WKWROlk2bsYdCwEG-k4cn/_buildManifest.js'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/WKWROlk2bsYdCwEG-k4cn/_ssgManifest.js',
+  path: '/_next/static/WKWROlk2bsYdCwEG-k4cn/_ssgManifest.js',
+  href: '/_next/static/WKWROlk2bsYdCwEG-k4cn/_ssgManifest.js'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F2%2Fthumbnail.jpg&w=640&q=75',
+  query: [Object: null prototype] {
+    url: 'https://i.dummyjson.com/data/products/2/thumbnail.jpg',
+    w: '640',
+    q: '75'
+  },
+  pathname: '/_next/image',
+  path: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F2%2Fthumbnail.jpg&w=640&q=75',
+  href: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F2%2Fthumbnail.jpg&w=640&q=75'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F3%2Fthumbnail.jpg&w=640&q=75',
+  query: [Object: null prototype] {
+    url: 'https://i.dummyjson.com/data/products/3/thumbnail.jpg',
+    w: '640',
+    q: '75'
+  },
+  pathname: '/_next/image',
+  path: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F3%2Fthumbnail.jpg&w=640&q=75',
+  href: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F3%2Fthumbnail.jpg&w=640&q=75'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F4%2Fthumbnail.jpg&w=640&q=75',
+  query: [Object: null prototype] {
+    url: 'https://i.dummyjson.com/data/products/4/thumbnail.jpg',
+    w: '640',
+    q: '75'
+  },
+  pathname: '/_next/image',
+  path: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F4%2Fthumbnail.jpg&w=640&q=75',
+  href: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F4%2Fthumbnail.jpg&w=640&q=75'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F5%2Fthumbnail.jpg&w=640&q=75',
+  query: [Object: null prototype] {
+    url: 'https://i.dummyjson.com/data/products/5/thumbnail.jpg',
+    w: '640',
+    q: '75'
+  },
+  pathname: '/_next/image',
+  path: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F5%2Fthumbnail.jpg&w=640&q=75',
+  href: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F5%2Fthumbnail.jpg&w=640&q=75'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F6%2Fthumbnail.png&w=640&q=75',
+  query: [Object: null prototype] {
+    url: 'https://i.dummyjson.com/data/products/6/thumbnail.png',
+    w: '640',
+    q: '75'
+  },
+  pathname: '/_next/image',
+  path: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F6%2Fthumbnail.png&w=640&q=75',
+  href: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F6%2Fthumbnail.png&w=640&q=75'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F7%2Fthumbnail.jpg&w=640&q=75',
+  query: [Object: null prototype] {
+    url: 'https://i.dummyjson.com/data/products/7/thumbnail.jpg',
+    w: '640',
+    q: '75'
+  },
+  pathname: '/_next/image',
+  path: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F7%2Fthumbnail.jpg&w=640&q=75',
+  href: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F7%2Fthumbnail.jpg&w=640&q=75'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F8%2Fthumbnail.jpg&w=640&q=75',
+  query: [Object: null prototype] {
+    url: 'https://i.dummyjson.com/data/products/8/thumbnail.jpg',
+    w: '640',
+    q: '75'
+  },
+  pathname: '/_next/image',
+  path: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F8%2Fthumbnail.jpg&w=640&q=75',
+  href: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F8%2Fthumbnail.jpg&w=640&q=75'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F9%2Fthumbnail.jpg&w=640&q=75',
+  query: [Object: null prototype] {
+    url: 'https://i.dummyjson.com/data/products/9/thumbnail.jpg',
+    w: '640',
+    q: '75'
+  },
+  pathname: '/_next/image',
+  path: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F9%2Fthumbnail.jpg&w=640&q=75',
+  href: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F9%2Fthumbnail.jpg&w=640&q=75'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F10%2Fthumbnail.jpeg&w=640&q=75',
+  query: [Object: null prototype] {
+    url: 'https://i.dummyjson.com/data/products/10/thumbnail.jpeg',
+    w: '640',
+    q: '75'
+  },
+  pathname: '/_next/image',
+  path: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F10%2Fthumbnail.jpeg&w=640&q=75',
+  href: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F10%2Fthumbnail.jpeg&w=640&q=75'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F11%2Fthumbnail.jpg&w=640&q=75',
+  query: [Object: null prototype] {
+    url: 'https://i.dummyjson.com/data/products/11/thumbnail.jpg',
+    w: '640',
+    q: '75'
+  },
+  pathname: '/_next/image',
+  path: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F11%2Fthumbnail.jpg&w=640&q=75',
+  href: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F11%2Fthumbnail.jpg&w=640&q=75'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/',
+  path: '/',
+  href: '/'
+}
+localhost:92
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/media/2aaf0723e720e8b9-s.p.woff2',
+  path: '/_next/static/media/2aaf0723e720e8b9-s.p.woff2',
+  href: '/_next/static/media/2aaf0723e720e8b9-s.p.woff2'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/css/0964754e1cd8709d.css',
+  path: '/_next/static/css/0964754e1cd8709d.css',
+  href: '/_next/static/css/0964754e1cd8709d.css'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/css/0f21c4bb7aa4c7fb.css',
+  path: '/_next/static/css/0f21c4bb7aa4c7fb.css',
+  href: '/_next/static/css/0f21c4bb7aa4c7fb.css'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/chunks/webpack-8fa1640cc84ba8fe.js',
+  path: '/_next/static/chunks/webpack-8fa1640cc84ba8fe.js',
+  href: '/_next/static/chunks/webpack-8fa1640cc84ba8fe.js'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/chunks/framework-2c79e2a64abdb08b.js',
+  path: '/_next/static/chunks/framework-2c79e2a64abdb08b.js',
+  href: '/_next/static/chunks/framework-2c79e2a64abdb08b.js'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/chunks/main-70c6c1c9944e7c74.js',
+  path: '/_next/static/chunks/main-70c6c1c9944e7c74.js',
+  href: '/_next/static/chunks/main-70c6c1c9944e7c74.js'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/chunks/pages/_app-cb4d59606a29a817.js',
+  path: '/_next/static/chunks/pages/_app-cb4d59606a29a817.js',
+  href: '/_next/static/chunks/pages/_app-cb4d59606a29a817.js'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/chunks/pages/index-8c070a18c3e82e5a.js',
+  path: '/_next/static/chunks/pages/index-8c070a18c3e82e5a.js',
+  href: '/_next/static/chunks/pages/index-8c070a18c3e82e5a.js'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/WKWROlk2bsYdCwEG-k4cn/_buildManifest.js',
+  path: '/_next/static/WKWROlk2bsYdCwEG-k4cn/_buildManifest.js',
+  href: '/_next/static/WKWROlk2bsYdCwEG-k4cn/_buildManifest.js'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/WKWROlk2bsYdCwEG-k4cn/_ssgManifest.js',
+  path: '/_next/static/WKWROlk2bsYdCwEG-k4cn/_ssgManifest.js',
+  href: '/_next/static/WKWROlk2bsYdCwEG-k4cn/_ssgManifest.js'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F1%2Fthumbnail.jpg&w=640&q=75',
+  query: [Object: null prototype] {
+    url: 'https://i.dummyjson.com/data/products/1/thumbnail.jpg',
+    w: '640',
+    q: '75'
+  },
+  pathname: '/_next/image',
+  path: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F1%2Fthumbnail.jpg&w=640&q=75',
+  href: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F1%2Fthumbnail.jpg&w=640&q=75'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/favicon.ico',
+  path: '/favicon.ico',
+  href: '/favicon.ico'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F2%2Fthumbnail.jpg&w=640&q=75',
+  query: [Object: null prototype] {
+    url: 'https://i.dummyjson.com/data/products/2/thumbnail.jpg',
+    w: '640',
+    q: '75'
+  },
+  pathname: '/_next/image',
+  path: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F2%2Fthumbnail.jpg&w=640&q=75',
+  href: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F2%2Fthumbnail.jpg&w=640&q=75'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F3%2Fthumbnail.jpg&w=640&q=75',
+  query: [Object: null prototype] {
+    url: 'https://i.dummyjson.com/data/products/3/thumbnail.jpg',
+    w: '640',
+    q: '75'
+  },
+  pathname: '/_next/image',
+  path: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F3%2Fthumbnail.jpg&w=640&q=75',
+  href: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F3%2Fthumbnail.jpg&w=640&q=75'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F4%2Fthumbnail.jpg&w=640&q=75',
+  query: [Object: null prototype] {
+    url: 'https://i.dummyjson.com/data/products/4/thumbnail.jpg',
+    w: '640',
+    q: '75'
+  },
+  pathname: '/_next/image',
+  path: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F4%2Fthumbnail.jpg&w=640&q=75',
+  href: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F4%2Fthumbnail.jpg&w=640&q=75'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F5%2Fthumbnail.jpg&w=640&q=75',
+  query: [Object: null prototype] {
+    url: 'https://i.dummyjson.com/data/products/5/thumbnail.jpg',
+    w: '640',
+    q: '75'
+  },
+  pathname: '/_next/image',
+  path: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F5%2Fthumbnail.jpg&w=640&q=75',
+  href: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F5%2Fthumbnail.jpg&w=640&q=75'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F6%2Fthumbnail.png&w=640&q=75',
+  query: [Object: null prototype] {
+    url: 'https://i.dummyjson.com/data/products/6/thumbnail.png',
+    w: '640',
+    q: '75'
+  },
+  pathname: '/_next/image',
+  path: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F6%2Fthumbnail.png&w=640&q=75',
+  href: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F6%2Fthumbnail.png&w=640&q=75'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F7%2Fthumbnail.jpg&w=640&q=75',
+  query: [Object: null prototype] {
+    url: 'https://i.dummyjson.com/data/products/7/thumbnail.jpg',
+    w: '640',
+    q: '75'
+  },
+  pathname: '/_next/image',
+  path: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F7%2Fthumbnail.jpg&w=640&q=75',
+  href: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F7%2Fthumbnail.jpg&w=640&q=75'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F8%2Fthumbnail.jpg&w=640&q=75',
+  query: [Object: null prototype] {
+    url: 'https://i.dummyjson.com/data/products/8/thumbnail.jpg',
+    w: '640',
+    q: '75'
+  },
+  pathname: '/_next/image',
+  path: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F8%2Fthumbnail.jpg&w=640&q=75',
+  href: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F8%2Fthumbnail.jpg&w=640&q=75'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F9%2Fthumbnail.jpg&w=640&q=75',
+  query: [Object: null prototype] {
+    url: 'https://i.dummyjson.com/data/products/9/thumbnail.jpg',
+    w: '640',
+    q: '75'
+  },
+  pathname: '/_next/image',
+  path: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F9%2Fthumbnail.jpg&w=640&q=75',
+  href: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F9%2Fthumbnail.jpg&w=640&q=75'
+}

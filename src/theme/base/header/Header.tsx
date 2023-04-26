@@ -1,9 +1,10 @@
+import styles from "./header.module.css";
 const Header = () => {
   return (
-    <section className="header">
-      <div className="header--logo">Header from Base</div>
-      <div className="menu">Menu Goes Here</div>
-    </section>
+    <header className={styles.header}>
+      <h2>BASE Theme.com</h2>
+      <p> No.1 shopping website</p>
+    </header>
   );
 };
 

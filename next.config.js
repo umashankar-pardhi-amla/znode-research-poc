@@ -33,8 +33,8 @@ const nextConfig = {
   },
   serverRuntimeConfig: {
     themes: {
-      "localhost:92": "abc",
-      "localhost:91": "xyz"
+      "localhost:92": "RedPanda",
+      "localhost:91": "Maxwell"
     }
   },
   images: {

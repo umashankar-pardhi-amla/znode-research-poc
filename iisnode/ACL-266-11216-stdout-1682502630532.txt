@@ -1,5 +1,5 @@
-\\.\pipe\f35610c4-cd2b-43b3-80a8-add76e82642f
-> Ready on http://localhost:\\.\pipe\f35610c4-cd2b-43b3-80a8-add76e82642f
+\\.\pipe\0614f354-ac16-4b84-bc5d-1a278ad1bb8f
+> Ready on http://localhost:\\.\pipe\0614f354-ac16-4b84-bc5d-1a278ad1bb8f
 server URL Url {
   protocol: null,
   slashes: null,
@@ -14,7 +14,7 @@ server URL Url {
   path: '/',
   href: '/'
 }
-localhost:92
+localhost:91
 server URL Url {
   protocol: null,
   slashes: null,
@@ -39,9 +39,9 @@ server URL Url {
   hash: null,
   search: null,
   query: [Object: null prototype] {},
-  pathname: '/_next/static/css/6ad3e258e3cfa608.css',
-  path: '/_next/static/css/6ad3e258e3cfa608.css',
-  href: '/_next/static/css/6ad3e258e3cfa608.css'
+  pathname: '/_next/static/css/0964754e1cd8709d.css',
+  path: '/_next/static/css/0964754e1cd8709d.css',
+  href: '/_next/static/css/0964754e1cd8709d.css'
 }
 server URL Url {
   protocol: null,
@@ -53,9 +53,9 @@ server URL Url {
   hash: null,
   search: null,
   query: [Object: null prototype] {},
-  pathname: '/_next/static/css/0964754e1cd8709d.css',
-  path: '/_next/static/css/0964754e1cd8709d.css',
-  href: '/_next/static/css/0964754e1cd8709d.css'
+  pathname: '/_next/static/css/759df506d4628002.css',
+  path: '/_next/static/css/759df506d4628002.css',
+  href: '/_next/static/css/759df506d4628002.css'
 }
 server URL Url {
   protocol: null,
@@ -123,9 +123,9 @@ server URL Url {
   hash: null,
   search: null,
   query: [Object: null prototype] {},
-  pathname: '/_next/static/chunks/pages/index-8dccaac87e5fda81.js',
-  path: '/_next/static/chunks/pages/index-8dccaac87e5fda81.js',
-  href: '/_next/static/chunks/pages/index-8dccaac87e5fda81.js'
+  pathname: '/_next/static/chunks/pages/index-aa03a46b478c5f24.js',
+  path: '/_next/static/chunks/pages/index-aa03a46b478c5f24.js',
+  href: '/_next/static/chunks/pages/index-aa03a46b478c5f24.js'
 }
 server URL Url {
   protocol: null,
@@ -137,9 +137,9 @@ server URL Url {
   hash: null,
   search: null,
   query: [Object: null prototype] {},
-  pathname: '/_next/static/MhvBVysN48H_gKI8UZ9bt/_buildManifest.js',
-  path: '/_next/static/MhvBVysN48H_gKI8UZ9bt/_buildManifest.js',
-  href: '/_next/static/MhvBVysN48H_gKI8UZ9bt/_buildManifest.js'
+  pathname: '/_next/static/VFA0peMT74mPnn6Kr8EhX/_buildManifest.js',
+  path: '/_next/static/VFA0peMT74mPnn6Kr8EhX/_buildManifest.js',
+  href: '/_next/static/VFA0peMT74mPnn6Kr8EhX/_buildManifest.js'
 }
 server URL Url {
   protocol: null,
@@ -151,9 +151,9 @@ server URL Url {
   hash: null,
   search: null,
   query: [Object: null prototype] {},
-  pathname: '/_next/static/MhvBVysN48H_gKI8UZ9bt/_ssgManifest.js',
-  path: '/_next/static/MhvBVysN48H_gKI8UZ9bt/_ssgManifest.js',
-  href: '/_next/static/MhvBVysN48H_gKI8UZ9bt/_ssgManifest.js'
+  pathname: '/_next/static/VFA0peMT74mPnn6Kr8EhX/_ssgManifest.js',
+  path: '/_next/static/VFA0peMT74mPnn6Kr8EhX/_ssgManifest.js',
+  href: '/_next/static/VFA0peMT74mPnn6Kr8EhX/_ssgManifest.js'
 }
 server URL Url {
   protocol: null,
@@ -163,54 +163,15 @@ server URL Url {
   port: null,
   hostname: null,
   hash: null,
-  search: null,
-  query: [Object: null prototype] {},
-  pathname: '/favicon.ico',
-  path: '/favicon.ico',
-  href: '/favicon.ico'
-}
-server URL Url {
-  protocol: null,
-  slashes: null,
-  auth: null,
-  host: null,
-  port: null,
-  hostname: null,
-  hash: null,
-  search: null,
-  query: [Object: null prototype] {},
-  pathname: '/favicon.ico',
-  path: '/favicon.ico',
-  href: '/favicon.ico'
-}
-server URL Url {
-  protocol: null,
-  slashes: null,
-  auth: null,
-  host: null,
-  port: null,
-  hostname: null,
-  hash: null,
-  search: null,
-  query: [Object: null prototype] {},
-  pathname: '/',
-  path: '/',
-  href: '/'
-}
-localhost:92
-server URL Url {
-  protocol: null,
-  slashes: null,
-  auth: null,
-  host: null,
-  port: null,
-  hostname: null,
-  hash: null,
-  search: null,
-  query: [Object: null prototype] {},
-  pathname: '/favicon.ico',
-  path: '/favicon.ico',
-  href: '/favicon.ico'
+  search: '?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F1%2Fthumbnail.jpg&w=640&q=75',
+  query: [Object: null prototype] {
+    url: 'https://i.dummyjson.com/data/products/1/thumbnail.jpg',
+    w: '640',
+    q: '75'
+  },
+  pathname: '/_next/image',
+  path: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F1%2Fthumbnail.jpg&w=640&q=75',
+  href: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F1%2Fthumbnail.jpg&w=640&q=75'
 }
 server URL Url {
   protocol: null,

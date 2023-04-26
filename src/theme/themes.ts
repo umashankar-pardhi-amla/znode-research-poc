@@ -1,8 +1,8 @@
-import { base } from "./base/registery"
-import { xyz } from "./xyz/registery"
-import { abc } from "./abc/registery"
+import { Base } from "./base/registery"
+import { RedPanda } from "./redPanda/registery"
+import { Maxwell } from "./maxwell/registery"
 
 
 export default {
-    base, xyz, abc
+    Base, RedPanda, Maxwell
 }

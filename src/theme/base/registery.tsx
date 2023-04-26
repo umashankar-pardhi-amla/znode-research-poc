@@ -1,6 +1,6 @@
 import Catalog from "./catalog/Catalog";
 import Header from "./header/Header";
-export const base = {
+export const Base = {
   Catalog,
   Header,
 };
