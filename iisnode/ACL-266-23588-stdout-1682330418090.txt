@@ -1,0 +1,376 @@
+\\.\pipe\e33be199-6a2c-444e-8168-6e4836bd046e
+> Ready on http://localhost:\\.\pipe\e33be199-6a2c-444e-8168-6e4836bd046e
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/',
+  path: '/',
+  href: '/'
+}
+localhost:91
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/media/2aaf0723e720e8b9-s.p.woff2',
+  path: '/_next/static/media/2aaf0723e720e8b9-s.p.woff2',
+  href: '/_next/static/media/2aaf0723e720e8b9-s.p.woff2'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/css/0964754e1cd8709d.css',
+  path: '/_next/static/css/0964754e1cd8709d.css',
+  href: '/_next/static/css/0964754e1cd8709d.css'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/chunks/webpack-8fa1640cc84ba8fe.js',
+  path: '/_next/static/chunks/webpack-8fa1640cc84ba8fe.js',
+  href: '/_next/static/chunks/webpack-8fa1640cc84ba8fe.js'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/css/6ad3e258e3cfa608.css',
+  path: '/_next/static/css/6ad3e258e3cfa608.css',
+  href: '/_next/static/css/6ad3e258e3cfa608.css'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/chunks/framework-2c79e2a64abdb08b.js',
+  path: '/_next/static/chunks/framework-2c79e2a64abdb08b.js',
+  href: '/_next/static/chunks/framework-2c79e2a64abdb08b.js'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/chunks/main-c9e4b013edd6f167.js',
+  path: '/_next/static/chunks/main-c9e4b013edd6f167.js',
+  href: '/_next/static/chunks/main-c9e4b013edd6f167.js'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/chunks/pages/_app-cb4d59606a29a817.js',
+  path: '/_next/static/chunks/pages/_app-cb4d59606a29a817.js',
+  href: '/_next/static/chunks/pages/_app-cb4d59606a29a817.js'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/9s_Zo5ltr-nkT1oU_ub8X/_buildManifest.js',
+  path: '/_next/static/9s_Zo5ltr-nkT1oU_ub8X/_buildManifest.js',
+  href: '/_next/static/9s_Zo5ltr-nkT1oU_ub8X/_buildManifest.js'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/9s_Zo5ltr-nkT1oU_ub8X/_ssgManifest.js',
+  path: '/_next/static/9s_Zo5ltr-nkT1oU_ub8X/_ssgManifest.js',
+  href: '/_next/static/9s_Zo5ltr-nkT1oU_ub8X/_ssgManifest.js'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/chunks/pages/index-d5b55ba4d58908b3.js',
+  path: '/_next/static/chunks/pages/index-d5b55ba4d58908b3.js',
+  href: '/_next/static/chunks/pages/index-d5b55ba4d58908b3.js'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?url=https%3A%2F%2Fpicsum.photos%2Fseed%2Fpicsum%2F900%2F1600&w=1920&q=75',
+  query: [Object: null prototype] {
+    url: 'https://picsum.photos/seed/picsum/900/1600',
+    w: '1920',
+    q: '75'
+  },
+  pathname: '/_next/image',
+  path: '/_next/image?url=https%3A%2F%2Fpicsum.photos%2Fseed%2Fpicsum%2F900%2F1600&w=1920&q=75',
+  href: '/_next/image?url=https%3A%2F%2Fpicsum.photos%2Fseed%2Fpicsum%2F900%2F1600&w=1920&q=75'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/favicon.ico',
+  path: '/favicon.ico',
+  href: '/favicon.ico'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/',
+  path: '/',
+  href: '/'
+}
+localhost:91
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/media/2aaf0723e720e8b9-s.p.woff2',
+  path: '/_next/static/media/2aaf0723e720e8b9-s.p.woff2',
+  href: '/_next/static/media/2aaf0723e720e8b9-s.p.woff2'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/css/0964754e1cd8709d.css',
+  path: '/_next/static/css/0964754e1cd8709d.css',
+  href: '/_next/static/css/0964754e1cd8709d.css'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/chunks/webpack-8fa1640cc84ba8fe.js',
+  path: '/_next/static/chunks/webpack-8fa1640cc84ba8fe.js',
+  href: '/_next/static/chunks/webpack-8fa1640cc84ba8fe.js'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/chunks/framework-2c79e2a64abdb08b.js',
+  path: '/_next/static/chunks/framework-2c79e2a64abdb08b.js',
+  href: '/_next/static/chunks/framework-2c79e2a64abdb08b.js'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/css/6ad3e258e3cfa608.css',
+  path: '/_next/static/css/6ad3e258e3cfa608.css',
+  href: '/_next/static/css/6ad3e258e3cfa608.css'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/chunks/main-c9e4b013edd6f167.js',
+  path: '/_next/static/chunks/main-c9e4b013edd6f167.js',
+  href: '/_next/static/chunks/main-c9e4b013edd6f167.js'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/chunks/pages/_app-cb4d59606a29a817.js',
+  path: '/_next/static/chunks/pages/_app-cb4d59606a29a817.js',
+  href: '/_next/static/chunks/pages/_app-cb4d59606a29a817.js'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/9s_Zo5ltr-nkT1oU_ub8X/_buildManifest.js',
+  path: '/_next/static/9s_Zo5ltr-nkT1oU_ub8X/_buildManifest.js',
+  href: '/_next/static/9s_Zo5ltr-nkT1oU_ub8X/_buildManifest.js'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/9s_Zo5ltr-nkT1oU_ub8X/_ssgManifest.js',
+  path: '/_next/static/9s_Zo5ltr-nkT1oU_ub8X/_ssgManifest.js',
+  href: '/_next/static/9s_Zo5ltr-nkT1oU_ub8X/_ssgManifest.js'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/chunks/pages/index-d5b55ba4d58908b3.js',
+  path: '/_next/static/chunks/pages/index-d5b55ba4d58908b3.js',
+  href: '/_next/static/chunks/pages/index-d5b55ba4d58908b3.js'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?url=https%3A%2F%2Fpicsum.photos%2Fseed%2Fpicsum%2F900%2F1600&w=1920&q=75',
+  query: [Object: null prototype] {
+    url: 'https://picsum.photos/seed/picsum/900/1600',
+    w: '1920',
+    q: '75'
+  },
+  pathname: '/_next/image',
+  path: '/_next/image?url=https%3A%2F%2Fpicsum.photos%2Fseed%2Fpicsum%2F900%2F1600&w=1920&q=75',
+  href: '/_next/image?url=https%3A%2F%2Fpicsum.photos%2Fseed%2Fpicsum%2F900%2F1600&w=1920&q=75'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/favicon.ico',
+  path: '/favicon.ico',
+  href: '/favicon.ico'
+}

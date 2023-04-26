@@ -1,0 +1,59 @@
+\\.\pipe\6c538bc5-a86f-4bbf-8e4d-3074bc56e3a9
+> Ready on http://localhost:\\.\pipe\6c538bc5-a86f-4bbf-8e4d-3074bc56e3a9
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/',
+  path: '/',
+  href: '/'
+}
+localhost:92
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/chunks/pages/index-8dccaac87e5fda81.js',
+  path: '/_next/static/chunks/pages/index-8dccaac87e5fda81.js',
+  href: '/_next/static/chunks/pages/index-8dccaac87e5fda81.js'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/Q3WB8Fx1i8EL4Zeq8xpGy/_buildManifest.js',
+  path: '/_next/static/Q3WB8Fx1i8EL4Zeq8xpGy/_buildManifest.js',
+  href: '/_next/static/Q3WB8Fx1i8EL4Zeq8xpGy/_buildManifest.js'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/Q3WB8Fx1i8EL4Zeq8xpGy/_ssgManifest.js',
+  path: '/_next/static/Q3WB8Fx1i8EL4Zeq8xpGy/_ssgManifest.js',
+  href: '/_next/static/Q3WB8Fx1i8EL4Zeq8xpGy/_ssgManifest.js'
+}

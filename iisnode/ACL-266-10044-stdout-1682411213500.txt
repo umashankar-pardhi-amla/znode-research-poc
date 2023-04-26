@@ -1,0 +1,450 @@
+\\.\pipe\f65ca9e2-71a9-43df-a51b-3cb2224a4c4b
+> Ready on http://localhost:\\.\pipe\f65ca9e2-71a9-43df-a51b-3cb2224a4c4b
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/',
+  path: '/',
+  href: '/'
+}
+localhost:91
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/Q3WB8Fx1i8EL4Zeq8xpGy/_buildManifest.js',
+  path: '/_next/static/Q3WB8Fx1i8EL4Zeq8xpGy/_buildManifest.js',
+  href: '/_next/static/Q3WB8Fx1i8EL4Zeq8xpGy/_buildManifest.js'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/chunks/pages/index-8dccaac87e5fda81.js',
+  path: '/_next/static/chunks/pages/index-8dccaac87e5fda81.js',
+  href: '/_next/static/chunks/pages/index-8dccaac87e5fda81.js'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/Q3WB8Fx1i8EL4Zeq8xpGy/_ssgManifest.js',
+  path: '/_next/static/Q3WB8Fx1i8EL4Zeq8xpGy/_ssgManifest.js',
+  href: '/_next/static/Q3WB8Fx1i8EL4Zeq8xpGy/_ssgManifest.js'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/favicon.ico',
+  path: '/favicon.ico',
+  href: '/favicon.ico'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/',
+  path: '/',
+  href: '/'
+}
+localhost:91
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/favicon.ico',
+  path: '/favicon.ico',
+  href: '/favicon.ico'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/favicon.ico',
+  path: '/favicon.ico',
+  href: '/favicon.ico'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/',
+  path: '/',
+  href: '/'
+}
+localhost:91
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/favicon.ico',
+  path: '/favicon.ico',
+  href: '/favicon.ico'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/favicon.ico',
+  path: '/favicon.ico',
+  href: '/favicon.ico'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F1%2Fthumbnail.jpg&w=640&q=75',
+  query: [Object: null prototype] {
+    url: 'https://i.dummyjson.com/data/products/1/thumbnail.jpg',
+    w: '640',
+    q: '75'
+  },
+  pathname: '/_next/image',
+  path: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F1%2Fthumbnail.jpg&w=640&q=75',
+  href: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F1%2Fthumbnail.jpg&w=640&q=75'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F2%2Fthumbnail.jpg&w=640&q=75',
+  query: [Object: null prototype] {
+    url: 'https://i.dummyjson.com/data/products/2/thumbnail.jpg',
+    w: '640',
+    q: '75'
+  },
+  pathname: '/_next/image',
+  path: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F2%2Fthumbnail.jpg&w=640&q=75',
+  href: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F2%2Fthumbnail.jpg&w=640&q=75'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F3%2Fthumbnail.jpg&w=640&q=75',
+  query: [Object: null prototype] {
+    url: 'https://i.dummyjson.com/data/products/3/thumbnail.jpg',
+    w: '640',
+    q: '75'
+  },
+  pathname: '/_next/image',
+  path: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F3%2Fthumbnail.jpg&w=640&q=75',
+  href: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F3%2Fthumbnail.jpg&w=640&q=75'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F6%2Fthumbnail.png&w=640&q=75',
+  query: [Object: null prototype] {
+    url: 'https://i.dummyjson.com/data/products/6/thumbnail.png',
+    w: '640',
+    q: '75'
+  },
+  pathname: '/_next/image',
+  path: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F6%2Fthumbnail.png&w=640&q=75',
+  href: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F6%2Fthumbnail.png&w=640&q=75'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F4%2Fthumbnail.jpg&w=640&q=75',
+  query: [Object: null prototype] {
+    url: 'https://i.dummyjson.com/data/products/4/thumbnail.jpg',
+    w: '640',
+    q: '75'
+  },
+  pathname: '/_next/image',
+  path: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F4%2Fthumbnail.jpg&w=640&q=75',
+  href: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F4%2Fthumbnail.jpg&w=640&q=75'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F5%2Fthumbnail.jpg&w=640&q=75',
+  query: [Object: null prototype] {
+    url: 'https://i.dummyjson.com/data/products/5/thumbnail.jpg',
+    w: '640',
+    q: '75'
+  },
+  pathname: '/_next/image',
+  path: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F5%2Fthumbnail.jpg&w=640&q=75',
+  href: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F5%2Fthumbnail.jpg&w=640&q=75'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F7%2Fthumbnail.jpg&w=640&q=75',
+  query: [Object: null prototype] {
+    url: 'https://i.dummyjson.com/data/products/7/thumbnail.jpg',
+    w: '640',
+    q: '75'
+  },
+  pathname: '/_next/image',
+  path: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F7%2Fthumbnail.jpg&w=640&q=75',
+  href: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F7%2Fthumbnail.jpg&w=640&q=75'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F9%2Fthumbnail.jpg&w=640&q=75',
+  query: [Object: null prototype] {
+    url: 'https://i.dummyjson.com/data/products/9/thumbnail.jpg',
+    w: '640',
+    q: '75'
+  },
+  pathname: '/_next/image',
+  path: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F9%2Fthumbnail.jpg&w=640&q=75',
+  href: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F9%2Fthumbnail.jpg&w=640&q=75'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F8%2Fthumbnail.jpg&w=640&q=75',
+  query: [Object: null prototype] {
+    url: 'https://i.dummyjson.com/data/products/8/thumbnail.jpg',
+    w: '640',
+    q: '75'
+  },
+  pathname: '/_next/image',
+  path: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F8%2Fthumbnail.jpg&w=640&q=75',
+  href: '/_next/image?url=https%3A%2F%2Fi.dummyjson.com%2Fdata%2Fproducts%2F8%2Fthumbnail.jpg&w=640&q=75'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/',
+  path: '/',
+  href: '/'
+}
+localhost:91
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/favicon.ico',
+  path: '/favicon.ico',
+  href: '/favicon.ico'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/favicon.ico',
+  path: '/favicon.ico',
+  href: '/favicon.ico'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/',
+  path: '/',
+  href: '/'
+}
+localhost:91
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/favicon.ico',
+  path: '/favicon.ico',
+  href: '/favicon.ico'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/favicon.ico',
+  path: '/favicon.ico',
+  href: '/favicon.ico'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/',
+  path: '/',
+  href: '/'
+}
+localhost:91
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/favicon.ico',
+  path: '/favicon.ico',
+  href: '/favicon.ico'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/favicon.ico',
+  path: '/favicon.ico',
+  href: '/favicon.ico'
+}

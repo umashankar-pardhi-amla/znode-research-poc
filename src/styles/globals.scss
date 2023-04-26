@@ -1,0 +1,122 @@
+$themes: (
+        abc: (
+                bg: #efefef,
+                card-bg: #ccc,
+                text: "#333",
+                text-secondary: #777,
+                link: blue,
+                hover: blue,
+                border: #777
+        ),
+        xyz: (
+                bg: #333,
+                card-bg: #555,
+                text: #ededed,
+                text-secondary: #aaa,
+                link: rgb(95, 95, 253),
+                hover: #cdcdcd,
+                border: #ededed
+        ),
+);
+
+@mixin themed() {
+  @each $theme, $map in $themes {
+    .theme--#{$theme} & {
+      $theme-map: () !global;
+      @each $key, $submap in $map {
+        $value: map-get(map-get($themes, $theme), '#{$key}');
+        $theme-map: map-merge($theme-map, ($key: $value)) !global;
+      }
+      @content;
+      $theme-map: null !global;
+    }
+  }
+}
+
+@function t($key) {
+  @return map-get($theme-map, $key);
+}
+
+html {
+    padding: 0;
+    margin: 0
+    
+}
+
+body {
+        margin: 0
+}
+img {
+    max-width: 100%;
+}
+.main {
+    height: 100vh;
+    padding: 0;
+    margin: 0;
+    overflow-y: auto;
+    @include themed() {
+        background-color: t('bg');
+        color: t('text')
+    }
+    .content {
+        width: 80%;
+        margin: 24px auto
+    }
+    .header {
+        display: flex;
+        justify-content: space-between;
+        padding: 16px;
+        border-radius: 4px;
+        @include themed() {
+            background-color: t('card-bg');
+            border: 1px solid t('border');
+        }
+    }
+
+    .banner {
+        margin-top: 16px
+    }
+    .catalog {
+        margin-top: 16px;
+        display: grid;
+        column-gap: 12px;
+        row-gap: 16px;
+        .product {
+            padding: 16px;
+            border-radius: 8px;
+            .img {
+                max-width: 100%;
+            }
+            @include themed() {
+                background-color: t('card-bg');
+                border: 1px solid t('border');
+            }
+        }
+    }
+
+    .table {
+        margin-top: 16px;
+        td, th {
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 8px;
+          }
+          
+          tr:nth-child(even) {
+            @include themed() {
+                background-color: t('card-bg');
+             }
+          }
+    }
+
+    @media (min-width: 900px) {
+        .catalog {
+            grid-template-columns: repeat(3, 1fr);
+        }
+    }
+}
+
+
+
+
+

@@ -1,0 +1,228 @@
+\\.\pipe\f35610c4-cd2b-43b3-80a8-add76e82642f
+> Ready on http://localhost:\\.\pipe\f35610c4-cd2b-43b3-80a8-add76e82642f
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/',
+  path: '/',
+  href: '/'
+}
+localhost:92
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/media/2aaf0723e720e8b9-s.p.woff2',
+  path: '/_next/static/media/2aaf0723e720e8b9-s.p.woff2',
+  href: '/_next/static/media/2aaf0723e720e8b9-s.p.woff2'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/css/6ad3e258e3cfa608.css',
+  path: '/_next/static/css/6ad3e258e3cfa608.css',
+  href: '/_next/static/css/6ad3e258e3cfa608.css'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/css/0964754e1cd8709d.css',
+  path: '/_next/static/css/0964754e1cd8709d.css',
+  href: '/_next/static/css/0964754e1cd8709d.css'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/chunks/webpack-8fa1640cc84ba8fe.js',
+  path: '/_next/static/chunks/webpack-8fa1640cc84ba8fe.js',
+  href: '/_next/static/chunks/webpack-8fa1640cc84ba8fe.js'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/chunks/framework-2c79e2a64abdb08b.js',
+  path: '/_next/static/chunks/framework-2c79e2a64abdb08b.js',
+  href: '/_next/static/chunks/framework-2c79e2a64abdb08b.js'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/chunks/main-70c6c1c9944e7c74.js',
+  path: '/_next/static/chunks/main-70c6c1c9944e7c74.js',
+  href: '/_next/static/chunks/main-70c6c1c9944e7c74.js'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/chunks/pages/_app-cb4d59606a29a817.js',
+  path: '/_next/static/chunks/pages/_app-cb4d59606a29a817.js',
+  href: '/_next/static/chunks/pages/_app-cb4d59606a29a817.js'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/chunks/pages/index-8dccaac87e5fda81.js',
+  path: '/_next/static/chunks/pages/index-8dccaac87e5fda81.js',
+  href: '/_next/static/chunks/pages/index-8dccaac87e5fda81.js'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/MhvBVysN48H_gKI8UZ9bt/_buildManifest.js',
+  path: '/_next/static/MhvBVysN48H_gKI8UZ9bt/_buildManifest.js',
+  href: '/_next/static/MhvBVysN48H_gKI8UZ9bt/_buildManifest.js'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/_next/static/MhvBVysN48H_gKI8UZ9bt/_ssgManifest.js',
+  path: '/_next/static/MhvBVysN48H_gKI8UZ9bt/_ssgManifest.js',
+  href: '/_next/static/MhvBVysN48H_gKI8UZ9bt/_ssgManifest.js'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/favicon.ico',
+  path: '/favicon.ico',
+  href: '/favicon.ico'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/favicon.ico',
+  path: '/favicon.ico',
+  href: '/favicon.ico'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/',
+  path: '/',
+  href: '/'
+}
+localhost:92
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/favicon.ico',
+  path: '/favicon.ico',
+  href: '/favicon.ico'
+}
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/favicon.ico',
+  path: '/favicon.ico',
+  href: '/favicon.ico'
+}

@@ -1,0 +1,17 @@
+\\.\pipe\0f53eb34-b6a0-46ed-adee-d6d8faec1dac
+> Ready on http://localhost:\\.\pipe\0f53eb34-b6a0-46ed-adee-d6d8faec1dac
+server URL Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/',
+  path: '/',
+  href: '/'
+}
+localhost:91
